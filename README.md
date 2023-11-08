@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://t.me/ClelestialXTG"><img src="https://graph.org//file/eb41085d7a0c564462dc1.jpg" alt="My Telegram (TG • CELESTIAL)"
 
-  # click on the photo to reach my telegram id
+<h2 align="center"> click on the photo to reach my telegram id
   
 - 🔭 I’m currently working on ... Telegram Bots
 - 🌱 I’m currently learning ... Python And C++
