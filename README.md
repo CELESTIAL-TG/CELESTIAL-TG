@@ -8,3 +8,5 @@
 - 📫 How to reach me: ... simply contact me on telegram
 - 😄 Pronouns: ... OFC He/Him
 - ⚡ Fun fact: ... I'm Noob
+
+<img src="https://graph.org//file/eb41085d7a0c564462dc1.jpg">
