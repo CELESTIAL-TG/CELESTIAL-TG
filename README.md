@@ -10,7 +10,7 @@
 
 
 <h2 align="center"> click on the photo to reach my telegram id
-</h2>
+</p>
   
 - 🔭 I’m currently working on ... Telegram Bots
 - 🌱 I’m currently learning ... Python And C++
@@ -18,6 +18,5 @@
 - 🤔 I’m looking for help with ... My Learning Purposes
 - 💬 Don't ask me about anything , I won't be able to answer
 - 📫 How to reach me: ... simply contact me on telegram
-- 😄 Pronouns: ... OFC He/Him
 - ⚡ Fun fact: ... I'm Noob
 
