@@ -10,6 +10,7 @@
 
 
 <h2 align="center"> click on the photo to reach my telegram id
+</h2>
   
 - 🔭 I’m currently working on ... Telegram Bots
 - 🌱 I’m currently learning ... Python And C++
