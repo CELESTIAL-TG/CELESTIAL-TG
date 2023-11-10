@@ -7,10 +7,6 @@
   <a href="https://t.me/ClelestialXTG"><img src="https://graph.org//file/eb41085d7a0c564462dc1.jpg" alt="My Telegram (TG • CELESTIAL)"
 
 
-
-
-<h2 align="center"> click on the photo to reach my telegram id
-</p>
   
 - 🔭 I’m currently working on ... Telegram Bots
 - 🌱 I’m currently learning ... Python And C++
@@ -20,3 +16,7 @@
 - 📫 How to reach me: ... simply contact me on telegram
 - ⚡ Fun fact: ... I'm Noob
 
+ <a href="https://telegram.me/celestialxtg">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
+  </a>  
+ </a>
