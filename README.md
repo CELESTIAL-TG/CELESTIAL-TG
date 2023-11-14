@@ -1,4 +1,4 @@
-<h1 align="center">Heya Friends !  I'm CELESTIAL-TG !  
+<h1 align="center">Hi There !  I'm CELESTIAL-TG !  
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=Nice+To+Meet+You;Hope+We+Become+Friends">
