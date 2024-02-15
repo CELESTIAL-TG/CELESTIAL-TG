@@ -16,7 +16,7 @@
 - 📫 How to reach me: ... simply contact me on telegram
 - ⚡ Fun fact: ... I'm Noob
 
- <a href="https://telegram.me/celestialxtg">
+ <a href="https://telegram.me/rixks_2005">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/>
   </a>  
  </a>
